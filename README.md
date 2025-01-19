@@ -28,9 +28,12 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ## Declare environment variables
+([Generate your Pinecone API Key](https://app.pinecone.io))
+([Generate your GROQ API Key](https://console.groq.com/playground))
 ```bash
 $env:PINECONE_API_KEY="pinecone_api_key"  
 ```
+([https://www.kaggle.com/datasets/aadyasingh55/cocktails](Create yours))
 ```bash
 $env:GROQ_API_KEY="groq_api_key"  
 ```
