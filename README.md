@@ -33,7 +33,6 @@ pip install -r requirements.txt
 ```bash
 $env:PINECONE_API_KEY="pinecone_api_key"  
 ```
-([https://www.kaggle.com/datasets/aadyasingh55/cocktails](Create yours))
 ```bash
 $env:GROQ_API_KEY="groq_api_key"  
 ```
